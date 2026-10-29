@@ -38,7 +38,7 @@ Get started with Aster AI BOT in just a few minutes!
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/cryptodai3/Aster-AI-BOT-CDY.git
+git clone https://github.com/DalleDai/Aster-AI-BOT-CDY.git
 ````
 
 Navigate into the project folder:
@@ -143,7 +143,7 @@ git pull origin main
 
 ### 💬 Need Help?
 
-* 🐛 **Bug Reports**: [Open a GitHub Issue](https://github.com/cryptodai3/Aster-AI-BOT-CDY/issues)
+* 🐛 **Bug Reports**: [Open a GitHub Issue](https://github.com/DalleDai/Aster-AI-BOT-CDY/issues)
 * 💡 **Channel**: Join [@cryptodai3](https://t.me/cryptodai3)
 * 🌐 **Community**: Join [YetiDAO Telegram](https://t.me/YetiDAO)
 
